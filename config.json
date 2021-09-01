@@ -1,0 +1,15 @@
+﻿{
+  "ConnectionString": {
+    "JKCContextDb": "Data Source=XIPL9266\\SQLEXPRESS;Initial Catalog=JKCShopping2;User=sauser;Password=Aloha@123;Connect Timeout=30; MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information"
+    }
+  },
+  "Token": {
+    "Key": "This is authentication key",
+    "Issuer": "http://localhost:8888",
+    "Audience": "http://localhost:8888"
+  }
+}
